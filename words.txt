@@ -1,0 +1,246 @@
+have stated that The Design of Everyday Things was required reading for
+their staffs. This book has succeeded.
+So show me more of those Norman doors, those faucets, those plastic
+bags of food that can be opened only by ripping them with the teeth. Show
+me more of those automobile radios, such as the one in my own car, with
+rows of tiny identical buttons that can't possibly be operated while driving.
+The problems sound trivial, but they can mean the difference between
+pleasure and frustration. The same principles that make these simple
+things work well or poorly apply to more complex operations, including
+ones in which human lives are at stake. Most accidents are attributed to
+human error, but in almost all cases the human error was the direct result
+of poor design. The principles that guide a quality, human-centered design
+are not relevant just to a more pleasurable life—they can save lives.
+
+The Hidden Frustrations of Everyday Things
+Before I wrote this book, I was a cognitive scientist, interested in how the
+
+mind works. I studied human perception, memory, and attention. I exam-
+ined how people learned, how they performed skilled activities. Along the
+
+way, I became interested in human error, hoping that my understanding of
+error would provide ways to teach people how to avoid mistakes. But then
+came the nuclear power plant accident at Three Mile Island in the United
+States, and I was among a group of social and behavioral scientists who
+were called in to determine why the control-room operators had made
+such terrible mistakes. To my surprise, we concluded that they were not to
+blame: the fault lay in the design of the control room. Indeed, the control
+panels of many power plants looked as if they were deliberately designed
+to cause errors.
+
+My interest in accidents led me to the study of human-centered devel-
+opment procedures that might eliminate those problems. I spent a sabbat-
+ical year in Cambridge, England, at the Medical Research Council's world-
+famous Applied Psychology Unit and was continually amused and frus-
+trated by the workings of the building. It was difficult to figure out which
+
+light switch controlled what light. Doors were another puzzle: some had
+to be pushed, some pulled, and at least one required sliding, yet there were
+no clues to the unwitting person attempting to go through the doorway.
+Water taps—"faucets" in the United States—were capricious; some sinks
+
+had the hot water on the left, some on the right. Moreover, whenever peo-
+ple made errors using these ill-constructed devices, they blamed them-
+viii Preface to the 2002 Edition
+
+selves. What was going on? Why did people blame themselves when a
+device itself was at fault?
+I started to observe how people coped with the numerous devices that
+populate our lives. In more recent years, my studies have expanded to
+include aviation safety, complex manufacturing plants, medical error, and
+a wide range of consumer products such as home entertainment systems
+
+and computers. In all these situations, people often find themselves flus-
+tered and confused. Worse, serious accidents are frequently blamed on
+
+"human error." Yet careful analysis of such situations shows that the
+design or installation of the equipment has contributed significantly to the
+problems. The design team or installers did not pay sufficient attention to
+the needs of those who would be using the equipment, so confusion or
+error was almost unavoidable. Whether kitchen stove or nuclear power
+plant, automobile or aircraft, thermostat or computer, the same problems
+were present. In all cases, design faults led to human error.
+My frustrations while in England caused me to write The Design of
+Everyday Things, but the problems I encountered there are universal and
+worldwide. When I wrote the book, I was a research scientist interested in
+principles of cognition. But I found myself more and more fascinated by
+
+the way these principles could be applied to improve everyday life, to min-
+imize error and accident. I changed the direction of my research to focus
+
+on applications and design. Eventually I left my university so I could
+devote myself to the development of products. I joined Apple Computer,
+
+first as an "Apple Fellow," then as vice president of the advanced technol-
+ogy group. I served as an executive at two other companies and then, with
+
+my colleague Jakob Nielsen, cofounded a consulting company (the Nielsen
+Norman group) to apply these ideas to a wider variety of firms, a wider
+variety of products. It has been exciting to witness the principles in
+Everyday Things realized in products.
+
+The Book Title: A Lesson in Design
+This book has been published under two titles. The first title, The
+Psychology of Everyday Things—POET—was much liked by my academic
+friends. The second title, The Design of Everyday Things—DOET—was more
+meaningful and better conveyed the contents of the book. The editor of the
+
+paperback edition explained to me that in bookstores, titles are what read-
+ers see as their eyes wander the shelves, skimming the spines. They rely
+
+upon the title to describe the book. I also learned that the word "psychol-
+ogy" caused the book to be shelved in the psychology sections of the
+
+stores, which drew readers who cared about people and human relation-
+Preface to the 2002 Edition ix
+
+ships rather than objects and our relationships to them. Readers interested
+in design would never think of looking in the psychology section. I went
+
+to bookstores and watched how people browsed. I talked with book buy-
+ers and clerks. My editor was correct: I needed to change the word "psy-
+chology" to "design." In titling my book, I had been guilty of the same
+
+shortsightedness that leads to all those unusable everyday things! My first
+choice of title was that of a self-centered designer, choosing the solution
+that pleased me without considering its impact upon readers. So DOET it
+became, and DOET it remains in this new edition.
+
+Lessons from DOET
+When you have trouble with things—whether it's figuring out whether to
+push or pull a door or the arbitrary vagaries of the modern computer and
+electronics industry—it's not your fault. Don't blame yourself: blame the
+designer. It's the fault of the technology, or, more precisely, of the design.
+When we first see an object we have never seen before, how do we
+know how to use it? How do we manage tens of thousands of objects,
+
+many of which we encounter only once? This question propelled the writ-
+ing of DOET. The answer, I quickly determined, was that the appearance
+
+of the device must provide the critical clues required for its proper opera-
+tion—knowledge has to be both in the head and in the world.
+
+At the time I wrote DOET, this idea was considered strange. Today,
+
+however, the concept is more widely accepted. Many in the design com-
+munity understand that design must convey the essence of a device's oper-
+ation; the way it works; the possible actions that can be taken; and, through
+
+feedback, just what it is doing at any particular moment. Design is really
+an act of communication, which means having a deep understanding of
+the person with whom the designer is communicating.
+Although DOET covers numerous topics, three have come to stand out
+as critical:
+1. It's not your fault: If there is anything that has caught the popular
+fancy, it is this simple idea: when people have trouble with something, it
+
+isn't their fault—it's the fault of the design. Every week brings yet anoth-
+er letter or e-mail from someone thanking me for delivering them from
+
+their feeling of incompetence.
+2. Design principles: I make it a rule never to criticize something unless I
+can offer a solution. DOET contains several important design principles,
+
+powerful tools for designers to ensure that their products are understand-
+x Preface to the 2002 Edition
+
+able and usable. The principles, of course, are explained within the book,
+but to give you a hint of what you will encounter, here is a short list of the
+most important. Note that they are all easy to understand, yet powerful.
+
+• Conceptual models. The human mind is a wonderful organ of under-
+standing—we are always trying to find meaning in the events around us.
+
+One of the greatest frustrations of all is trying to learn how to do some-
+thing that seems completely arbitrary and capricious. Worse, when we lack
+
+understanding, we are apt to err.
+Consider the thermostat. When some people enter a cold house, they
+turn the thermostat to a very high temperature in order to reach the
+desired level more quickly. They do this because of their internal mental
+model of how the furnace works. The model is sensible and coherent, even
+if not well thought out. It is also wrong. But how would they know?
+
+Although this behavior is wrong for the home, it works for most automo-
+biles—turn the heat or air conditioning up all the way, and when the inte-
+rior is at the correct temperature, adjust the temperature control again.
+
+To understand how to use things, we need conceptual models of how
+they work. Home furnaces, air conditioners, and even most household
+ovens have only two levels of operation: full power or off. Therefore, they
+
+are always heating or cooling to the desired temperature as rapidly as pos-
+sible. In these cases, setting the thermostat too high does nothing but waste
+
+energy when the temperature overshoots the target.
+Now consider the automobile. The conceptual model is quite different.
+Yes, the heater and air conditioner also have only two settings, full power
+or off, but in many autos, the desired temperature is achieved by mixing
+cold and hot air. In this case, faster results come by turning off the mixing
+
+(by setting the temperature control to an extreme) until the desired tem-
+perature is reached, then adjusting the mixture to maintain the desired
+
+temperature.
+The explanations of the home and automobiles are examples of simple
+conceptual models. They are highly oversimplified but quite adequate for
+
+understanding how they work. They make it easy for us to use very dif-
+ferent behavior when in the home or in the auto. A good conceptual model
+
+can make the difference between successful and erroneous operation of the
+many devices in our lives.
+This short lesson on conceptual models points out that good design is
+also an act of communication between the designer and the user, except
+that all the communication has to come about by the appearance of the
+
+device itself. The device must explain itself. Even the location and opera-
+tion of the controls require a conceptual model—an obvious and natural
+
+Preface to the 2002 Edition xi
+
+relationship between their location and the operation they control so you
+always know which control does what (in the book, I call this a "natural
+mapping"). When the designers fail to provide a conceptual model, we
+will be forced to make up our own, and the ones we make up are apt to be
+wrong. Conceptual models are critical to good design.
+• Feedback. In design, it is important to show the effect of an action.
+
+Without feedback, one is always wondering whether anything has hap-
+pened. Maybe the button wasn't pushed hard enough; maybe the machine
+
+has stopped working; maybe it is doing the wrong thing. Without feed-
+back, we turn equipment off at improper times or restart unnecessarily,
+
+losing all our recent work. Or we repeat the command and end up having
+the operation done twice, often to our detriment. Feedback is critical.
+• Constraints. The surest way to make something easy to use, with few
+errors, is to make it impossible to do otherwise—to constrain the choices.
+Want to prevent people from inserting batteries or memory cards into their
+cameras the wrong way, thus possibly harming the electronics? Design
+them so that they fit only one way, or make it so they work perfectly
+regardless of how they were inserted.Failure to design with constraints is one reason for all those warnings
+and attempts to give instructions: all those tiny diagrams on the camera, in
+obscure locations, often in the same color as the case and unreadable. I look
+for instructions posted on doors, cameras, and other equipment. Rule of
+thumb: when instructions have to be pasted on something (push here,
+insert this way, turn off before doing this), it is badly designed.
+• Affordances. A good designer makes sure that appropriate actions are
+
+perceptible and inappropriate ones invisible. DOET introduced the con-
+cept of "perceived affordances" to the design community, and to my pleas-
+ure, the concept has become immensely popular.
+
+3. The power of observation: If I have been successful, DOET will change
+the way you see the world. You will never look at a door or light switch the
+same way again. You will become an acute observer of people, of objects,
+and of the way they interact. In fact, if there is one single most important
+
+part of the book it is this: learn to watch, learn to observe. Observe your-
+self. Observe others. As the famous baseball player Yogi Berra said, "You
+
+can observe a lot by watching." Problem is, you have to know how to
+watch. Before DOET, had you seen a hapless user, whether an unknown
+person or even yourself, you would have been apt to blame the person.
+Now you will find yourself critiquing the design. Better yet, you will find
+yourself explaining how to fix the problem.
